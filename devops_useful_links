@@ -36,6 +36,10 @@ CloudFront - https://d2zthjocvv7mvn.cloudfront.net/DevFolio/index.html
 
 https://youtube.com/watch?v=T2xoTC7gbbs&feature=share   – Docker Jenkins
 
+https://kubernetes.github.io/ingress-nginx/user-guide/basic-usage/     - Ingress service
+
+https://kubernetes.github.io/ingress-nginx/deploy/#aws    -:  AWS- Ingress controller
+
 [
 To install Jenks docker
 docker run -d --name jenkins -p 50000:50000 -p 8080:8080  jenkins/jenkins:lts
