@@ -42,6 +42,8 @@ https://kubernetes.github.io/ingress-nginx/deploy/#aws    -:  AWS- Ingress contr
 
 https://helm.sh/docs/intro/install/#helm   :- to install helm 
 
+https://www.jenkins.io/doc/book/pipeline/syntax/#when-example  :- declarative condition pipelines
+
 
 [
 To install Jenks docker
