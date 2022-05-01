@@ -44,6 +44,8 @@ https://helm.sh/docs/intro/install/#helm   :- to install helm
 
 https://www.jenkins.io/doc/book/pipeline/syntax/#when-example  :- declarative condition pipelines
 
+https://helm.sh/docs/intro/install/   :- to install helm on ubuntu
+
 
 [
 To install Jenks docker
